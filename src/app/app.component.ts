@@ -7,4 +7,33 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-project3';
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  constructor(){
+    // this.teacherList=JSON.parse(localStorage.getItem("TEACHER_LIST")|| '');
+    // this.studentList=JSON.parse(localStorage.getItem("STUDENT_LIST") || '');
+    // this.staffList=JSON.parse(localStorage.getItem("STAFF_LIST")|| '');
+    // this.examList=JSON.parse(localStorage.getItem("EXAM_LIST")||'');
+  }
+  
+
+  
+
+  
+
+  
+ 
+
+  
+  
 }
